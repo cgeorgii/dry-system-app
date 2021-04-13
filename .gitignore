@@ -1,0 +1,10 @@
+# Local config
+.bundle/
+.env
+.env.development
+.env.test
+log/*
+
+# Test-related
+/spec/support/failed_examples.txt
+spec/coverage
